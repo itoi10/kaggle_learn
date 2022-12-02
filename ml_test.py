@@ -40,5 +40,3 @@ df2[xx].hist(color="g", alpha=0.5)  # 緑グラフ
 
 plt.xlabel(xx)
 plt.show()
-
-# 散布図 TODO
